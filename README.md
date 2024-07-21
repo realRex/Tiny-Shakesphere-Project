@@ -8,7 +8,7 @@
 2. The model is trained upon the set of characters as a token rather than sub-words that are often used by platforms like Gemini or ChatGPT.
 
  ## Features 
-1. **Bigram Language Model:** It uses to predict next character in a sequence.
+1. **Bigram Language Model:** It has been trained to predict next character in a sequence of characters.
 2. **Google Colab Integration:** Link to interactive notebook has also been provided to access all the hands-on experimentation that was carried out while writing this code.
 3. **Refactored Code:** Finally upon understanding the working through google collab, a cleaner and easier to understand implementation has also been provided within the repository.
   
