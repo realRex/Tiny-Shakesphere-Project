@@ -1,7 +1,7 @@
 
 ## Acknowledgment
 1. Acknowledgment to Andrej Karpathy's lectures on his YouTube channel.
-2. Google Collab for providing interactive platform to carry out this endeavour.
+2. Google Colab for providing interactive platform to carry out this endeavour.
 
 ## Overview
 1. This project was limited in both scope and size. It sought to implement a small language model that is trained on a dataset of 40,000 lines written by Shakespeare.
