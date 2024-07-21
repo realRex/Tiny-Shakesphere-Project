@@ -1,18 +1,18 @@
 
-# Acknowledgment
+## Acknowledgment
 1. Acknowledgment to Andrej Karpathy's lectures on his YouTube channel.
 2. Google Collab for providing interactive platform to carry out this endeavour.
 
-# Overview
+## Overview
 1. This project was limited in both scope and size. It sought to implement a small language model that is trained on a dataset of 40,000 lines written by Shakespeare.
 2. The model is trained upon the set of characters as a token rather than sub-words that are often used by platforms like Gemini or ChatGPT.
 
- # Features 
+ ## Features 
 1. **Bigram Language Model:** It uses to predict next character in a sequence.
 2. **Google Colab Integration:** Link to interactive notebook has also been provided to access all the hands-on experimentation that was carried out while writing this code.
 3. **Refactored Code:** Finally upon understanding the working through google collab, a cleaner and easier to understand implementation has also been provided within the repository.
   
-# Structure
+## Structure
 1. "tiny-shakespeare.txt" contains the dataset
 2. "Google_Collab_for_Tiny_Shakespeare.ipynb" as the name suggests is the source file of Google Collab
 3. "Final Refactored Code.py" contains the python script to implement the code.
